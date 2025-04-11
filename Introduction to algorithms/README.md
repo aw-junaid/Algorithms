@@ -8,8 +8,8 @@
 ## 1. Divide-and-Conquer
 
 1.  [The maximum-subarray problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Divide-and-Conquer%3A%20The%20Maximum-Subarray%20Problem.md)
-2.  Strassen’s algorithm for matrix multiplication
-3.  The substitution method for solving recurrences
+2.  [Strassen’s algorithm for matrix multiplication](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Strassen%E2%80%99s%20Algorithm%20for%20Matrix%20Multiplication%20(Divide-and-Conquer%20Approach).md)
+3.  [The substitution method for solving recurrences](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/The%20Substitution%20Method%20for%20Solving%20Recurrences%20(Divide-and-Conquer).md)
 4.  The recursion-tree method for solving recurrences
 5.  The master method for solving recurrences
 6.  Proof of the master theorem
