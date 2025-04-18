@@ -10,15 +10,15 @@
 1.  [The maximum-subarray problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Divide-and-Conquer%3A%20The%20Maximum-Subarray%20Problem.md)
 2.  [Strassen’s algorithm for matrix multiplication](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Strassen%E2%80%99s%20Algorithm%20for%20Matrix%20Multiplication%20(Divide-and-Conquer%20Approach).md)
 3.  [The substitution method for solving recurrences](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/The%20Substitution%20Method%20for%20Solving%20Recurrences%20(Divide-and-Conquer).md)
-4.  The recursion-tree method for solving recurrences
-5.  The master method for solving recurrences
-6.  Proof of the master theorem
+4.  [The recursion-tree method for solving recurrences](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/The%20Master%20Method%20for%20Solving%20Recurrences%20(Divide-and-Conquer).md)
+5.  [The master method for solving recurrences](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Proof%20of%20the%20Master%20Theorem%20(Divide-and-Conquer).md)
+6.  [Proof of the master theorem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Proof%20of%20the%20Master%20Theorem%20(Divide-and-Conquer).md)
 
 ## 2. Probabilistic Analysis and Randomized Algorithms
 
-1.  The hiring problem
-2.  Indicator random variables
-3.  Randomized algorithms
+1.  [The hiring problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Probabilistic%20Analysis%20and%20Randomized%20Algorithms%3A%20The%20Hiring%20Problem.md)
+2.  [Indicator random variables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Indicator%20Random%20Variables%20in%20Probabilistic%20Analysis.md)
+3.  [Randomized algorithms](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Randomized%20Algorithms%3A%20Theory%20and%20Implementation%20in%20C.md)
 4.  Probabilistic analysis and further uses of indicator random variables
 
 ## 3. Heapsort
