@@ -19,70 +19,70 @@
 1.  [The hiring problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Probabilistic%20Analysis%20and%20Randomized%20Algorithms%3A%20The%20Hiring%20Problem.md)
 2.  [Indicator random variables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Indicator%20Random%20Variables%20in%20Probabilistic%20Analysis.md)
 3.  [Randomized algorithms](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Randomized%20Algorithms%3A%20Theory%20and%20Implementation%20in%20C.md)
-4.  Probabilistic analysis and further uses of indicator random variables
+4.  [Probabilistic analysis and further uses of indicator random variables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Indicator%20Random%20Variables%20in%20Probabilistic%20Analysis.md)
 
 ## 3. Heapsort
 
-1.  Heaps
-2.  Maintaining the heap property
-3.  Building a heap
-4.  The heapsort algorithm
-5.  Priority queues
+1.  [Heaps](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Heap%20Sort%3A%20A%20Detailed%20Explanation%20and%20Implementation%20in%20C.md)
+2.  [Maintaining the heap property](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Heap%20Sort%3A%20Maintaining%20the%20Heap%20Property.md)
+3.  [Building a heap](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Heap%20Sort%3A%20Building%20a%20Heap.md)
+4.  [The heapsort algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Heap%20Sort%20Algorithm%3A%20Comprehensive%20Explanation%20and%20C%20Implementation.md)
+5.  [Priority queues](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Priority%20Queues%3A%20Comprehensive%20Explanation%20and%20C%20Implementation.md)
 
 ## 4. Quicksort
 
-1.  Description of quicksort
-2.  Performance of quicksort
-3.  A randomized version of quicksort
-4.  Analysis of quicksort
+1.  [Description of quicksort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/QuickSort%3A%20Comprehensive%20Guide%20with%20Mathematical%20Analysis%20and%20C%20Implementation.md)
+2.  [Performance of quicksort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/QuickSort%3A%20Comprehensive%20Guide%20with%20Mathematical%20Analysis%20and%20C%20Implementation.md#2-performance-of-quicksort)
+3.  [A randomized version of quicksort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/QuickSort%3A%20Comprehensive%20Guide%20with%20Mathematical%20Analysis%20and%20C%20Implementation.md#3-randomized-quicksort)
+4.  [Analysis of quicksort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/QuickSort%3A%20Comprehensive%20Guide%20with%20Mathematical%20Analysis%20and%20C%20Implementation.md#4-analysis-of-quicksort)
 
 ## 5. Sorting in Linear Time
 
-1.  Lower bounds for sorting
-2.  Counting sort
-3.  Radix sort
-4.  Bucket sort
+1.  [Lower bounds for sorting](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Sorting%20in%20Linear%20Time%3A%20Lower%20Bounds%20for%20Sorting.md)
+2.  [Counting sort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Counting%20Sort%3A%20A%20Linear-Time%20Sorting%20Algorithm.md)
+3.  [Radix sort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Radix%20Sort%3A%20A%20Linear-Time%20Integer%20Sorting%20Algorithm.md)
+4.  [Bucket sort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Bucket%20Sort%3A%20A%20Linear-Time%20Distribution%20Sorting%20Algorithm.md)
 
 ## 6. Medians and Order Statistics
 
-1.  Minimum and maximum
-2.  Selection in expected linear time
-3.  Selection in worst-case linear time
+1.  [Minimum and maximum](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Medians%20and%20Order%20Statistics%3A%20Minimum%20and%20Maximum.md)
+2.  [Selection in expected linear time](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Selection%20in%20Expected%20Linear%20Time%3A%20Randomized%20Select%20Algorithm.md)
+3.  [Selection in worst-case linear time](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Selection%20in%20Worst-Case%20Linear%20Time%3A%20Median%20of%20Medians%20Algorithm.md)
 
 ## 7. Elementary Data Structures
 
-1.  Stacks and queues
-2.  Linked lists
-3.  Implementing pointers and objects
-4.  Representing rooted trees
+1.  [Stacks and queues](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Elementary%20Data%20Structures%3A%20Stacks%20and%20Queues.md)
+2.  [Linked lists](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Elementary%20Data%20Structures%3A%20Linked%20Lists.md)
+3.  [Implementing pointers and objects](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Elementary%20Data%20Structures%3A%20Implementing%20Pointers%20and%20Objects%20in%20C.md)
+4.  [Representing rooted trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Elementary%20Data%20Structures%3A%20Representing%20Rooted%20Trees.md)
 
 ## 8. Hash Tables
 
-1.  Direct-address tables
-2.  Hash tables
-3.  Hash functions
-4.  Open addressing
-5.  Perfect hashing
+1.  [Direct-address tables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Hash%20Tables%3A%20Comprehensive%20Guide%20with%20C%20Implementations.md#1-direct-address-tables)
+2.  [Hash tables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Hash%20Tables%3A%20Comprehensive%20Guide%20with%20C%20Implementations.md#2-hash-tables)
+3.  [Hash functions](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Hash%20Tables%3A%20Comprehensive%20Guide%20with%20C%20Implementations.md#3-hash-functions)
+4.  [Open addressing](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Hash%20Tables%3A%20Comprehensive%20Guide%20with%20C%20Implementations.md#4-open-addressing)
+5.  [Perfect hashing](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Hash%20Tables%3A%20Comprehensive%20Guide%20with%20C%20Implementations.md#5-perfect-hashing)
 
 ## 9. Binary Search Trees
 
-1.  What is a binary search tree?
-2.  Querying a binary search tree
-3.  Insertion and deletion
-4.  Randomly built binary search trees
+1.  [What is a binary search tree?](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Binary%20Search%20Trees%3A%20A%20Comprehensive%20Guide.md#1-what-is-a-binary-search-tree)
+2.  [Querying a binary search tree](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Binary%20Search%20Trees%3A%20A%20Comprehensive%20Guide.md#2-querying-a-binary-search-tree)
+3.  [Insertion and deletion](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Binary%20Search%20Trees%3A%20A%20Comprehensive%20Guide.md#3-insertion-and-deletion)
+4.  [Randomly built binary search trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Binary%20Search%20Trees%3A%20A%20Comprehensive%20Guide.md#4-randomly-built-binary-search-trees)
 
 ## 10. Red-Black Trees
 
-1.  Properties of red-black trees
-2.  Rotations
-3.  Insertion
-4.  Deletion
+1.  [Properties of red-black trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Red-Black%20Trees%3A%20A%20Comprehensive%20Guide.md#1-properties-of-red-black-trees)
+2.  [Rotations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Red-Black%20Trees%3A%20A%20Comprehensive%20Guide.md#2-rotations)
+3.  [Insertion](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Red-Black%20Trees%3A%20A%20Comprehensive%20Guide.md#3-insertion)
+4.  [Deletion](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Red-Black%20Trees%3A%20A%20Comprehensive%20Guide.md#4-deletion)
 
 ## 11. Augmenting Data Structures
 
-1.  Dynamic order statistics
-2.  How to augment a data structure
-3.  Interval trees
+1.  [Dynamic order statistics](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Augmenting%20Data%20Structures%3A%20Dynamic%20Order%20Statistics%20and%20Interval%20Trees.md#1-dynamic-order-statistics)
+2.  [How to augment a data structure](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Augmenting%20Data%20Structures%3A%20Dynamic%20Order%20Statistics%20and%20Interval%20Trees.md#2-how-to-augment-a-data-structure)
+3.  [Interval trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Augmenting%20Data%20Structures%3A%20Dynamic%20Order%20Statistics%20and%20Interval%20Trees.md#3-interval-trees)
 
 ## 12. Advanced Design and Analysis Techniques
 
