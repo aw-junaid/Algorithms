@@ -88,26 +88,26 @@
 
 ### 12.1. Dynamic Programming
 
-1.  Rod cutting
-2.  Matrix-chain multiplication
-3.  Elements of dynamic programming
-4.  Longest common subsequence
-5.  Optimal binary search trees
+1.  [Rod cutting](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Rod%20Cutting%20Problem%3A%20Dynamic%20Programming%20Approach.md)
+2.  [Matrix-chain multiplication](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Matrix-Chain%20Multiplication%3A%20Dynamic%20Programming%20Approach.md)
+3.  [Elements of dynamic programming](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Elements%20of%20Dynamic%20Programming%3A%20Comprehensive%20Guide%20with%20C%20Implementation.md)
+4.  [Longest common subsequence](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Longest%20Common%20Subsequence%20(LCS)%3A%20Dynamic%20Programming%20Approach.md)
+5.  [Optimal binary search trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Optimal%20Binary%20Search%20Trees%20(OBST)%20-%20Dynamic%20Programming%20Approach.md)
 
 ### 12.2. Greedy Algorithms
 
-1.  An activity-selection problem
-2.  Elements of the greedy strategy
-3.  Huffman codes
-4.  Matroids and greedy methods
-5.  A task-scheduling problem as a matroid
+1.  [An activity-selection problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Activity%20Selection%20Problem%20-%20Greedy%20Algorithm%20Approach.md)
+2.  [Elements of the greedy strategy](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Elements%20of%20the%20Greedy%20Strategy%20%20-%20Greedy%20Algorithm.md)
+3.  [Huffman codes](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Huffman%20Codes%3A%20A%20Greedy%20Algorithm%20for%20Data%20Compression.md)
+4.  [Matroids and greedy methods](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Matroids%20and%20Greedy%20Methods.md)
+5.  [A task-scheduling problem as a matroid](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/A%20task-scheduling%20problem%20as%20a%20matroid.md)
 
 ### 12.3. Amortized Analysis
 
-1.  Aggregate analysis
-2.  The accounting method
-3.  The potential method
-4.  Dynamic tables
+1.  [Aggregate analysis](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Amortized%20Analysis%3A%20A%20Detailed%20Explanation%20with%20C%20Implementations.md#1-aggregate-analysis)
+2.  [The accounting method](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Amortized%20Analysis%3A%20A%20Detailed%20Explanation%20with%20C%20Implementations.md#2-the-accounting-method)
+3.  [The potential method](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Amortized%20Analysis%3A%20A%20Detailed%20Explanation%20with%20C%20Implementations.md#3-the-potential-method)
+4.  [Dynamic tables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Amortized%20Analysis%3A%20A%20Detailed%20Explanation%20with%20C%20Implementations.md#4-dynamic-tables)
 
 ### 12.4. B-Trees
 
