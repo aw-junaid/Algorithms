@@ -111,16 +111,16 @@
 
 ### 12.4. B-Trees
 
-1.  Definition of B-trees
-2.  Basic operations on B-trees
-3.  Deleting a key from a B-tree
+1.  [Definition of B-trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/B-Trees%3A%20A%20Comprehensive%20Guide.md#definition-of-b-trees)
+2.  [Basic operations on B-trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/B-Trees%3A%20A%20Comprehensive%20Guide.md#basic-operations-on-b-trees)
+3.  [Deleting a key from a B-tree](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/B-Trees%3A%20A%20Comprehensive%20Guide.md#deleting-a-key-from-a-b-tree)
 
 ### 12.5. Fibonacci Heaps
 
-1.  Structure of Fibonacci heaps
-2.  Mergeable-heap operations
-3.  Decreasing a key and deleting a node
-4.  Bounding the maximum degree
+1.  [Structure of Fibonacci heaps](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Fibonacci%20Heaps%3A%20A%20Detailed%20Explanation%20with%20C%20Implementation.md#1-structure-of-fibonacci-heaps)
+2.  [Mergeable-heap operations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Fibonacci%20Heaps%3A%20A%20Detailed%20Explanation%20with%20C%20Implementation.md#2-mergeable-heap-operations)
+3.  [Decreasing a key and deleting a node](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Fibonacci%20Heaps%3A%20A%20Detailed%20Explanation%20with%20C%20Implementation.md#3-decreasing-a-key-and-deleting-a-node)
+4.  [Bounding the maximum degree](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/Fibonacci%20Heaps%3A%20A%20Detailed%20Explanation%20with%20C%20Implementation.md#4-bounding-the-maximum-degree)
 
 ### 12.6. van Emde Boas Trees
 
