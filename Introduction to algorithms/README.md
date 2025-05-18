@@ -124,16 +124,16 @@
 
 ### 12.6. van Emde Boas Trees
 
-1.  Preliminary approaches
-2.  A recursive structure
-3.  The van Emde Boas tree
+1.  [Preliminary approaches](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/van%20Emde%20Boas%20Trees.md#preliminary-approaches)
+2.  [A recursive structure](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/van%20Emde%20Boas%20Trees.md#recursive-structure-breakdown)
+3.  [The van Emde Boas tree](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/van%20Emde%20Boas%20Trees.md#implementation-in-c)
 
 ### 12.7. Data Structures for Disjoint Sets
 
-1.  Disjoint-set operations
-2.  Linked-list representation of disjoint sets
-3.  Disjoint-set forests
-4.  Analysis of union by rank with path compression
+1.  [Disjoint-set operations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Data%20Structures%20for%20Disjoint%20Sets%20(Union-Find).md#disjoint-set-operations)
+2.  [Linked-list representation of disjoint sets](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Data%20Structures%20for%20Disjoint%20Sets%20(Union-Find).md#linked-list-representation-of-disjoint-sets)
+3.  [Disjoint-set forests](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Data%20Structures%20for%20Disjoint%20Sets%20(Union-Find).md#disjoint-set-forests)
+4.  [Analysis of union by rank with path compression](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Data%20Structures%20for%20Disjoint%20Sets%20(Union-Find).md#analysis-of-union-by-rank-with-path-compression)
 
 ## 13. Graph Algorithms
 
