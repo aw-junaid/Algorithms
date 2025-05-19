@@ -139,24 +139,24 @@
 
 ### 13.1. Elementary Graph Algorithms
 
-1.  Representations of graphs
-2.  Breadth-first search
-3.  Depth-first search
-4.  Topological sort
-5.  Strongly connected components
+1.  [Representations of graphs](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Elementary%20Graph%20Algorithms%3A%20Representations%20of%20Graphs.md)
+2.  [Breadth-first search](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Breadth-First%20Search%20(BFS)%20-%20Comprehensive%20Explanation.md)
+3.  [Depth-first search](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Depth-First%20Search%20(DFS)%20-%20Comprehensive%20Explanation%20and%20Implementation%20in%20C.md)
+4.  [Topological sort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Topological%20Sort%3A%20Detailed%20Explanation%20and%20Implementation%20in%20C.md)
+5.  [Strongly connected components](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Strongly%20Connected%20Components%20(SCC)%20in%20Graph%20Theory.md)
 
 ### 13.2. Minimum Spanning Trees
 
-1.  Growing a minimum spanning tree
-2.  The algorithms of Kruskal and Prim
+1.  [Growing a minimum spanning tree](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Minimum%20Spanning%20Trees%3A%20Growing%20a%20Minimum%20Spanning%20Tree.md)
+2.  [The algorithms of Kruskal and Prim](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/The%20algorithms%20of%20Kruskal%20and%20Prim.md)
 
 ### 13.3. Single-Source Shortest Paths
 
-1.  The Bellman-Ford algorithm
-2.  Single-source shortest paths in directed acyclic graphs
-3.  Dijkstra’s algorithm
-4.  Difference constraints and shortest paths
-5.  Proofs of shortest-paths properties
+1.  [The Bellman-Ford algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/The%20Bellman-Ford%20Algorithm%3A%20Detailed%20Explanation%20and%20Implementation.md)
+2.  [Single-source shortest paths in directed acyclic graphs](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Single-Source%20Shortest%20Paths%20in%20Directed%20Acyclic%20Graphs%20(DAGs).md)
+3.  [Dijkstra’s algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Dijkstra's%20Algorithm%3A%20Comprehensive%20Explanation%20and%20Implementation%20in%20C.md)
+4.  [Difference constraints and shortest paths](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Difference%20Constraints%20and%20Shortest%20Paths.md)
+5.  [Proofs of shortest-paths properties](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Proofs%20of%20Shortest-Paths%20Properties%3A%20Comprehensive%20Explanation.md)
 
 ### 13.4. All-Pairs Shortest Paths
 
