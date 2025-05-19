@@ -160,9 +160,9 @@
 
 ### 13.4. All-Pairs Shortest Paths
 
-1.  Shortest paths and matrix multiplication
-2.  The Floyd-Warshall algorithm
-3.  Johnson’s algorithm for sparse graphs
+1.  [Shortest paths and matrix multiplication](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Introduction%20to%20Shortest%20Paths%20via%20Matrix%20Multiplication.md)
+2.  [The Floyd-Warshall algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Floyd-Warshall%20Algorithm%3A%20Comprehensive%20Explanation%20and%20Implementation.md)
+3.  [Johnson’s algorithm for sparse graphs](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/1/Johnson's%20Algorithm%20for%20Sparse%20Graphs.md)
 
 ### 13.5. Maximum Flow
 
