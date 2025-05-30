@@ -53,7 +53,7 @@ For the system:
 ```
 
 The matrix form is:
-$$\[
+```math
 \begin{pmatrix}
 2 & 1 & -1 \\
 -3 & -1 & 2 \\
@@ -70,7 +70,7 @@ z
 -11 \\
 -3
 \end{pmatrix}
-\]$$
+```
 
 ## Inverting Matrices
 
