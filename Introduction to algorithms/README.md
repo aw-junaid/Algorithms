@@ -166,104 +166,104 @@
 
 ### 13.5. Maximum Flow
 
-1.  Flow networks
-2.  The Ford-Fulkerson method
-3.  Maximum bipartite matching
-4.  Push-relabel algorithms
-5.  The relabel-to-front algorithm
+1.  [Flow networks](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Maximum%20Flow%3A%20Comprehensive%20Explanation%20and%20Implementation.md#1-flow-networks)
+2.  [The Ford-Fulkerson method](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Maximum%20Flow%3A%20Comprehensive%20Explanation%20and%20Implementation.md#2-the-ford-fulkerson-method)
+3.  [Maximum bipartite matching](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Maximum%20Flow%3A%20Comprehensive%20Explanation%20and%20Implementation.md#3-maximum-bipartite-matching)
+4.  [Push-relabel algorithms](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Maximum%20Flow%3A%20Comprehensive%20Explanation%20and%20Implementation.md#4-push-relabel-algorithms)
+5.  [The relabel-to-front algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Maximum%20Flow%3A%20Comprehensive%20Explanation%20and%20Implementation.md#5-the-relabel-to-front-algorithm)
 
 ## 14. Multithreaded Algorithms
 
-1.  The basics of dynamic multithreading
-2.  Multithreaded matrix multiplication
-3.  Multithreaded merge sort
+1.  [The basics of dynamic multithreading](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Multithreaded%20Algorithms%3A%20A%20Comprehensive%20Guide.md#the-basics-of-dynamic-multithreading)
+2.  [Multithreaded matrix multiplication](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Multithreaded%20Algorithms%3A%20A%20Comprehensive%20Guide.md#multithreaded-matrix-multiplication)
+3.  [Multithreaded merge sort](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Multithreaded%20Algorithms%3A%20A%20Comprehensive%20Guide.md#multithreaded-merge-sort)
 
 ## 15. Matrix Operations
 
-1.  Solving systems of linear equations
-2.  Inverting matrices
-3.  Symmetric positive-definite matrices and least-squares approximation
+1.  [Solving systems of linear equations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Matrix%20Operations%20and%20Linear%20Algebra%20in%20C.md#solving-systems-of-linear-equations)
+2.  [Inverting matrices](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Matrix%20Operations%20and%20Linear%20Algebra%20in%20C.md#inverting-matrices)
+3.  [Symmetric positive-definite matrices and least-squares approximation](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Matrix%20Operations%20and%20Linear%20Algebra%20in%20C.md#symmetric-positive-definite-matrices)
 
 ## 16. Linear Programming
 
-1.  Standard and slack forms
-2.  Formulating problems as linear programs
-3.  The simplex algorithm
-4.  Duality
-5.  The initial basic feasible solution
+1.  [Standard and slack forms](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Linear%20Programming%3A%20A%20Comprehensive%20Guide.md#standard-form-and-slack-forms)
+2.  [Formulating problems as linear programs](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Linear%20Programming%3A%20A%20Comprehensive%20Guide.md#formulating-problems-as-linear-programs)
+3.  [The simplex algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Linear%20Programming%3A%20A%20Comprehensive%20Guide.md#the-simplex-algorithm)
+4.  [Duality](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Linear%20Programming%3A%20A%20Comprehensive%20Guide.md#duality-theorems)
+5.  [The initial basic feasible solution](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Linear%20Programming%3A%20A%20Comprehensive%20Guide.md#the-initial-basic-feasible-solution)
 
 ## 17. Polynomials and the FFT
 
-1.  Representing polynomials
-2.  The DFT and FFT
-3.  Efficient FFT implementations
+1.  [Representing polynomials](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Polynomials%20and%20the%20FFT%3A%20A%20Comprehensive%20Guide.md#representing-polynomials)
+2.  [The DFT and FFT](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Polynomials%20and%20the%20FFT%3A%20A%20Comprehensive%20Guide.md#the-dft-and-fft)
+3.  [Efficient FFT implementations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Polynomials%20and%20the%20FFT%3A%20A%20Comprehensive%20Guide.md#efficient-fft-implementations)
 
 ## 18. Number-Theoretic Algorithms
 
-1.  Elementary number-theoretic notions
-2.  Greatest common divisor
-3.  Modular arithmetic
-4.  Solving modular linear equations
-5.  The Chinese remainder theorem
-6.  Powers of an element
-7.  The RSA public-key cryptosystem
-8.  Primality testing
-9.  Integer factorization
+1.  [Elementary number-theoretic notions](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#elementary-number-theoretic-notions)
+2.  [Greatest common divisor](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#greatest-common-divisor)
+3.  [Modular arithmetic](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#modular-arithmetic)
+4.  [Solving modular linear equations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#solving-modular-linear-equations)
+5.  [The Chinese remainder theorem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#the-chinese-remainder-theorem)
+6.  [Powers of an element](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#powers-of-an-element)
+7.  [The RSA public-key cryptosystem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#the-rsa-public-key-cryptosystem)
+8.  [Primality testing](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#primality-testing)
+9.  [Integer factorization](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Number-Theoretic%20Algorithms%3A%20A%20Comprehensive%20Guide.md#integer-factorization)
 
 ## 19. String Matching
 
-1.  The naive string-matching algorithm
-2.  The Rabin-Karp algorithm
-3.  String matching with finite automata
-4.  The Knuth-Morris-Pratt algorithm
+1.  [The naive string-matching algorithm](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Naive%20String-Matching%20Algorithm%3A%20Detailed%20Explanation%20and%20Implementation.md#naive-string-matching-algorithm-detailed-explanation-and-implementation)
+2.  [The Rabin-Karp algorithm](https://awjunaid.com/algorithm/the-rabin-karp-algorithm-a-detailed-explanation/)
+3.  [String matching with finite automata](https://awjunaid.com/algorithm/string-matching-with-finite-automata/)
+4.  [The Knuth-Morris-Pratt algorithm](https://awjunaid.com/algorithm/the-knuth-morris-pratt-kmp-algorithm-detailed-explanation/)
 
 ## 20. Computational Geometry
 
 1.  Line-segment properties
-2.  Determining whether any pair of segments intersects
-3.  Finding the convex hull
-4.  Finding the closest pair of points
+2.  [Determining whether any pair of segments intersects](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Computational%20Geometry%3A%20Key%20Algorithms%20and%20Implementations.md#1-determining-whether-any-pair-of-segments-intersects)
+3.  [Finding the convex hull](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Computational%20Geometry%3A%20Key%20Algorithms%20and%20Implementations.md#2-finding-the-convex-hull)
+4.  [Finding the closest pair of points](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Computational%20Geometry%3A%20Key%20Algorithms%20and%20Implementations.md#3-finding-the-closest-pair-of-points)
 
 ## 21. NP-Completeness
 
-1.  Polynomial time
-2.  Polynomial-time verification
-3.  NP-completeness and reducibility
-4.  NP-completeness proofs
-5.  NP-complete problems
+1.  [Polynomial time](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/NP-Completeness%3A%20A%20Comprehensive%20Guide.md#1-polynomial-time)
+2.  [Polynomial-time verification](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/NP-Completeness%3A%20A%20Comprehensive%20Guide.md#2-polynomial-time-verification)
+3.  [NP-completeness and reducibility](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/NP-Completeness%3A%20A%20Comprehensive%20Guide.md#3-np-completeness-and-reducibility)
+4.  [NP-completeness proofs](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/NP-Completeness%3A%20A%20Comprehensive%20Guide.md#4-np-completeness-proofs)
+5.  [NP-complete problems](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/NP-Completeness%3A%20A%20Comprehensive%20Guide.md#5-np-complete-problems)
 
 ## 22. Approximation Algorithms
 
-1.  The vertex-cover problem
-2.  The traveling-salesman problem
-3.  The set-covering problem
-4.  Randomization and linear programming
-5.  The subset-sum problem
+1.  [The vertex-cover problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Approximation%20Algorithms%3A%20Key%20Problems%20and%20Implementations.md#1-vertex-cover-problem)
+2.  [The traveling-salesman problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Approximation%20Algorithms%3A%20Key%20Problems%20and%20Implementations.md#2-traveling-salesman-problem-tsp)
+3.  [The set-covering problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Approximation%20Algorithms%3A%20Key%20Problems%20and%20Implementations.md#3-set-covering-problem)
+4.  [Randomization and linear programming](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Approximation%20Algorithms%3A%20Key%20Problems%20and%20Implementations.md#5-randomization-and-linear-programming)
+5.  [The subset-sum problem](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Approximation%20Algorithms%3A%20Key%20Problems%20and%20Implementations.md#4-subset-sum-problem)
 
 ## 23. Mathematical Background
 
 ### 23.1. Summations
 
-1.  Summation formulas and properties
-2.  Bounding summations
+1.  [Summation formulas and properties](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Summations%3A%20Formulas%2C%20Properties%2C%20and%20Bounding%20Techniques.md#introduction-to-summations)
+2.  [Bounding summations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Summations%3A%20Formulas%2C%20Properties%2C%20and%20Bounding%20Techniques.md#summation-notation)
 
 ### 23.2. Sets, Etc.
 
-1.  Sets
-2.  Relations
-3.  Functions
-4.  Graphs
-5.  Trees
+1.  [Sets](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Comprehensive%20Guide%20to%20Sets%2C%20Relations%2C%20Functions%2C%20Graphs%2C%20and%20Trees.md#1-sets)
+2.  [Relations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Comprehensive%20Guide%20to%20Sets%2C%20Relations%2C%20Functions%2C%20Graphs%2C%20and%20Trees.md#2-relations)
+3.  [Functions](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Comprehensive%20Guide%20to%20Sets%2C%20Relations%2C%20Functions%2C%20Graphs%2C%20and%20Trees.md#3-functions)
+4.  [Graphs](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Comprehensive%20Guide%20to%20Sets%2C%20Relations%2C%20Functions%2C%20Graphs%2C%20and%20Trees.md#4-graphs)
+5.  [Trees](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Comprehensive%20Guide%20to%20Sets%2C%20Relations%2C%20Functions%2C%20Graphs%2C%20and%20Trees.md#5-trees)
 
 ### 23.3. Counting and Probability
 
-1.  Counting
-2.  Probability
-3.  Discrete random variables
-4.  The geometric and binomial distributions
-5.  The tails of the binomial distribution
+1.  [Counting](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Counting%20and%20Probability%3A%20A%20Comprehensive%20Guide.md#1-counting-principles)
+2.  [Probability](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Counting%20and%20Probability%3A%20A%20Comprehensive%20Guide.md#2-probability-basics)
+3.  [Discrete random variables](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Counting%20and%20Probability%3A%20A%20Comprehensive%20Guide.md#3-discrete-random-variables)
+4.  [The geometric and binomial distributions](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Counting%20and%20Probability%3A%20A%20Comprehensive%20Guide.md#4-geometric-distribution)
+5.  [The tails of the binomial distribution](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Counting%20and%20Probability%3A%20A%20Comprehensive%20Guide.md#5-binomial-distribution)
 
 ### 23.4. Matrices
 
-1.  Matrices and matrix operations
-2.  Basic matrix properties
+1.  [Matrices and matrix operations](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Matrices%3A%20A%20Comprehensive%20Guide.md#matrix-operations)
+2.  [Basic matrix properties](https://github.com/aw-junaid/Algorithms/blob/main/Introduction%20to%20algorithms/articles/2/Matrices%3A%20A%20Comprehensive%20Guide.md#basic-matrix-notation)
